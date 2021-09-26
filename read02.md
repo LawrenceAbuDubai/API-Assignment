@@ -36,6 +36,12 @@ Ease of Use: Simple, well-documented, and developers may quickly access this doc
 
 -----------------------------------------------------------------
 
+Frontend : https://github.com/LawrenceAbuDubai/city-explorer
+
+backend : https://github.com/LawrenceAbuDubai/city-explorer-api
+
+-----------------------------------------------------------------
+
 references
 <https://www.visualcrossing.com/resources/documentation/weather-api/what-is-a-weather-api/>
 <https://www.tcl.com/global/en/service-support-mobile/tclplex/What-is-location-API.html>
