@@ -25,10 +25,19 @@ as for SEARCH_STRING, in my web app this variable value is taken from the user ,
 
 -----------------------------------------------------------------
 
+frontends :
+
+
 Frontend : git hub repo <https://github.com/LawrenceAbuDubai/city-assignment>
+
 Frontend : netlify <https://cityexplore-lsa.netlify.app/>
 
+
+backends :
+
+
 backend : github repo <https://github.com/LawrenceAbuDubai/city-assignment-backend>
+
 backend : heroku app <https://city-explore-lsa.herokuapp.com/>
 
 -----------------------------------------------------------------
