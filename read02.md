@@ -1,7 +1,7 @@
 # Investigating APIs
 
-in this page i will be talking about the APIs i used in my app:
-location , weather and movies API
+in this page i will be talking about the API i used in my app:
+location 
 
 location API
 A fused location provider is Location API. The fused location provider is a Google Play Services location API that intelligently integrates various signals to offer the location data that your app requires. It controls the underlying location technologies, such as GPS and Wi-Fi, and provides a simple API for specifying the desired service quality.
